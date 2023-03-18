@@ -1,5 +1,3 @@
-# About
-
 Inko is a language for building concurrent software with confidence.
 
 Inko makes it easy to build concurrent software, without having to worry about
